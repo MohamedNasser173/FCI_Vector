@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1577447974 source:d:\mohamednasser20180241\main.cpp
+	<iostream>
+	<string>
+	"fcivector.h"
+	"course.h"
+	"student.h"
+
+1577481311 d:\mohamednasser20180241\include\fcivector.h
+	<iostream>
+	<string>
+	<cmath>
+
+1577448107 d:\mohamednasser20180241\include\course.h
+	<iostream>
+	<string>
+	"fcivector.h"
+
+1577481093 d:\mohamednasser20180241\include\student.h
+	<iostream>
+	<string>
+	"course.h"
+	"fcivector.h"
+
+1577041184 source:d:\mohamednasser20180241\src\fcivector.cpp
+	"fcivector.h"
+

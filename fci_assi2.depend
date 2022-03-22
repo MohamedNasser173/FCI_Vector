@@ -1,0 +1,87 @@
+# depslib dependency file v1.0
+1577041184 source:c:\users\mo nasser\desktop\my programs 2\fci_assi2\src\fcivector.cpp
+	"fcivector.h"
+
+1577447889 c:\users\mo nasser\desktop\my programs 2\fci_assi2\include\fcivector.h
+	<iostream>
+	<string>
+	<cmath>
+
+1577447974 source:c:\users\mo nasser\desktop\my programs 2\fci_assi2\main.cpp
+	<iostream>
+	<string>
+	"fcivector.h"
+	"course.h"
+	"student.h"
+
+1577296735 source:c:\users\mo nasser\desktop\my programs 2\fci_assi2\src\student.cpp
+	"student.h"
+	"course.h"
+
+1577448830 c:\users\mo nasser\desktop\my programs 2\fci_assi2\include\student.h
+	<iostream>
+	<string>
+	"course.h"
+	"fcivector.h"
+
+1577296759 source:c:\users\mo nasser\desktop\my programs 2\fci_assi2\src\course.cpp
+	"course.h"
+	"course.h"
+
+1577448107 c:\users\mo nasser\desktop\my programs 2\fci_assi2\include\course.h
+	<iostream>
+	<string>
+	"fcivector.h"
+
+1577447974 source:c:\users\mo nasser\desktop\fci_assi2\main.cpp
+	<iostream>
+	<string>
+	"fcivector.h"
+	"course.h"
+	"student.h"
+
+1577481051 c:\users\mo nasser\desktop\fci_assi2\include\fcivector.h
+	<iostream>
+	<string>
+	<cmath>
+
+1577448107 c:\users\mo nasser\desktop\fci_assi2\include\course.h
+	<iostream>
+	<string>
+	"fcivector.h"
+
+1577481093 c:\users\mo nasser\desktop\fci_assi2\include\student.h
+	<iostream>
+	<string>
+	"course.h"
+	"fcivector.h"
+
+1577041184 source:c:\users\mo nasser\desktop\fci_assi2\src\fcivector.cpp
+	"fcivector.h"
+
+1577447974 source:c:\users\mo nasser\desktop\mohamednasser20180241\main.cpp
+	<iostream>
+	<string>
+	"fcivector.h"
+	"course.h"
+	"student.h"
+
+1577481051 c:\users\mo nasser\desktop\mohamednasser20180241\include\fcivector.h
+	<iostream>
+	<string>
+	<cmath>
+
+1577448107 c:\users\mo nasser\desktop\mohamednasser20180241\include\course.h
+	<iostream>
+	<string>
+	"fcivector.h"
+
+1577481093 c:\users\mo nasser\desktop\mohamednasser20180241\include\student.h
+	<iostream>
+	<string>
+	"course.h"
+	"fcivector.h"
+
+1577041184 source:c:\users\mo nasser\desktop\mohamednasser20180241\src\fcivector.cpp
+	"fcivector.h"
+
